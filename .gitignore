@@ -19,3 +19,5 @@
 #in the future unmount .c9 files using
 #git rm -rf --cached .c9/
 /.c9/
+
+*.jpg
