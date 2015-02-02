@@ -15,4 +15,7 @@
 /log/*.log
 /tmp
 
-.c9/
+#Ignore all .c9 specific files<br>
+#in the future unmount .c9 files using
+#git rm -rf --cached .c9/
+/.c9/
